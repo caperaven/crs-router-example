@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d422e94-11c4-4d4d-ae2a-7a274bd89ae9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/crs-router-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/404/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/about/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/about/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/static.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/subroute/routes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/subroute/subroute.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/subroute/subroute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/subroute/views/sr1/sr1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/subroute/views/sr1/sr1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/subroute/views/sr2/sr2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/subroute/views/sr3/sr3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/welcome/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/welcome/welcome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/crs-router/crs-router.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/crs-router/crs-static-provider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/crs-router/crs-url-provider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/crs-router/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/crs-router/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +49,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570183104456</updated>
-      <workItem from="1570183105497" duration="1094000" />
+      <workItem from="1570183105497" duration="1301000" />
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1570184247995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570184247995</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial">
+      <created>1570184385158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570184385158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
 </project>
